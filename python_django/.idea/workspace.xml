@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -19,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -56,6 +63,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="586" y="203" key="#Inspections" timestamp="1604373980741">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="586" y="203" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1604373980741" />
+    <state x="719" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604373943637">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="719" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1604373943637" />
     <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1604373557405">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -72,9 +87,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1604373557405" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1604372474925">
+    <state x="461" y="169" key="SettingsEditor" timestamp="1604373872084">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1604372474925" />
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1604373872084" />
   </component>
 </project>
