@@ -53,3 +53,6 @@ def usuarios_data(request):
 
     return render(request, 'usuarios/usuarios_data.html', context)
 
+
+def espacios(request):
+    return render(request, 'usuarios/espacios.html')
