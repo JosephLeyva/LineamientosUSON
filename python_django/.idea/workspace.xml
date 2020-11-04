@@ -98,30 +98,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="203" key="#Inspections" timestamp="1604373980741">
+    <state x="586" y="203" key="#Inspections" timestamp="1604463465364">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="586" y="203" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1604373980741" />
+    <state x="586" y="203" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1604463465364" />
     <state x="719" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604373943637">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="719" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1604373943637" />
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1604373557405">
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1604464172602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1604373557405" />
-    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1604373557405">
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1604464172602" />
+    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1604464172602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1604373557405" />
-    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1604373557405">
+    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1604464172602" />
+    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1604464172602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1604373557405" />
-    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1604373557405">
+    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1604464172602" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1604464172602">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1604373557405" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1604464172602" />
     <state x="583" y="79" key="SettingsEditor" timestamp="1604380915466">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -130,9 +130,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1604414305902" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1604452230511">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1604459430448">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1604452230511" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1604459430448" />
   </component>
 </project>
