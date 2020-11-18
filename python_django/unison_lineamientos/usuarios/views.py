@@ -56,3 +56,7 @@ def usuarios_data(request):
 
 def espacios(request):
     return render(request, 'usuarios/espacios.html')
+
+
+def formulario(request):
+    return render(request, 'usuarios/formulario.html')
